@@ -1,6 +1,7 @@
 The code demonstrates a simple card game simulation with a deck of cards and various operations that can be performed on the deck. 
 
 Deck Class:
+
     1. createDeck(): Initializes a deck of 52 cards with ranks ranging from Ace to King and suits (Hearts, Diamonds, Clubs, Spades).
     
     2. displayDeck(): Prints the cards in the current deck or informs the user if the deck is empty.
