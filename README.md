@@ -1,4 +1,4 @@
-The code demonstrates a simple card game simulation with a deck of cards and various operations that can be performed on the deck. 
+This Java code represents a card deck management system with a user-friendly interface. The Card class defines a standard playing card with attributes such as rank and suit, offering methods for retrieving these attributes and implementing the Comparable interface for sorting. The Deck class utilizes a vector to create, shuffle, and display a deck of cards. The system provides functionalities such as drawing a random card, emptying the deck, printing a specific card, sorting the deck, comparing two random cards, checking if two cards are the same, finding a card by its rank and suit, and dealing a hand of cards. The interactive menu-driven startMenu method allows users to perform these actions by selecting options, ensuring a dynamic and engaging card deck manipulation experience. The program is designed to handle edge cases, such as attempting to draw from an empty deck or shuffle an already empty deck. Overall, the code serves as a comprehensive and interactive implementation of a playing card management system.
 
 Deck Class:
 
